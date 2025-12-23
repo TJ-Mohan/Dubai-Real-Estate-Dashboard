@@ -83,7 +83,7 @@ Insight:
 Provides a detailed understanding of how room combinations impact price and availability
 Allows granular comparison across neighborhoods and listing categories
 
-5. Bar Chart with Dynamic Top-N Slicer
+**5,Bar Chart with Dynamic Top-N Slicer**
 
 Displays number of houses constructed per year
 Includes a dynamic Top-N slicer (Top 3, Top 5, etc.)
