@@ -18,20 +18,15 @@ An interactive Power BI dashboard analyzing Dubai real estate listings to uncove
 ## Dashboard Structure & Visuals
 #### Section 1: KPI Metrics
 
-Key high-level metrics displayed using KPI cards:
-
-Total Listings
-
-Average Property Price
-
-Average Property Size (Sqft)
-
-Highest Priced Property
-
-Average Price per Sqft
+* Key high-level metrics displayed using KPI cards:
+* Total Listings
+* Average Property Price
+* Average Property Size (Sqft)
+* Highest Priced Property
+* Average Price per Sqft
 
 #### Section 2: Visual Analytics
-1. Average Price per Sqft Over the Years (Line Chart)
+**1. Average Price per Sqft Over the Years (Line Chart)**
 X-axis: Year Built
 Y-axis: Average Price per Sqft (measure)
 
@@ -41,7 +36,7 @@ Price per square foot has remained largely stable over the past 7–8 decades.
 Prices fluctuate within a narrow range of 110–120 per sqft.
 This trend holds true across all neighborhoods and listing categories, indicating long-term price stability rather than sharp appreciation or depreciation.
 
-2. Neighborhood Map Visualization
+**2. Neighborhood Map Visualization**
 
 Displays property locations across Dubai
 Helps users understand geographic distribution of listings
@@ -51,7 +46,7 @@ Value:
 Enables location-based decision-making
 Assists investors in identifying neighborhood-level price patterns
 
-3. Line & Clustered Column Chart (Price Range Analysis)
+**3.Line & Clustered Column Chart (Price Range Analysis)**
 
 X-axis: Year Built
 Y-axis: Property Price
@@ -66,7 +61,7 @@ Clearly highlights the price range of houses available over time
 Helps users compare affordability and premium segments across locations
 Supports informed investment decisions based on budget and timeframe
 
-4. Donut Chart – Bedroom & Bathroom Combinations
+**4. Donut Chart – Bedroom & Bathroom Combinations**
 
 This is one of the most interactive visuals in the dashboard.
 
